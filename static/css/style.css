@@ -1,0 +1,15 @@
+body {
+    background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.jumbotron {
+    color: white;
+    text-shadow: black 0px 0px 5px;
+
+}
+
+background-image {
+    opacity: .5;
+}
+
